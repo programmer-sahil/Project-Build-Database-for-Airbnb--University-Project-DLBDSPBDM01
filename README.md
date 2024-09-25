@@ -2,9 +2,8 @@
 University Professional Project (Database of Airbnb)
 
 
-University: IU International University of Applied Sciences
-
-Currently Working on it
+University: IU International University of Applied Sciences, Germany
+Department: Bachelor's in Computer Science
 
 <img width="1394" alt="image" src="https://github.com/user-attachments/assets/5bc4ab30-8138-41ac-a38b-357044b3dd16">
 
